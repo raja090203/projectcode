@@ -1,0 +1,2 @@
+git is a distributed version control system
+it is te most used tool for version controlling purpose
